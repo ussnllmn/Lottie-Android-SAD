@@ -1,6 +1,8 @@
 # Lottie-Android-SAD
-Open Source Project Analysis: Lottie-Android<br />
+Open Source Project Analysis: Lottie-Android
+<br/>
 Source: https://github.com/airbnb/lottie-android
+
 >Lottie เป็น Library ที่สามารถสร้างภาพ Animation จาก After effect แล้วส่งต่องานให้เป็นไฟล์ JSON และไฟล์รูปแบบอื่นๆ( เช่น .zip .lottie ) ให้แก่ทีมพัฒนา เพื่อนำไปใช้งานต่อในแอปพลิเคชันทั้งใน IOS, Android และ React Native  
 
 # Members
